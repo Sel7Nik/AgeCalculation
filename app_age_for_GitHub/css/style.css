@@ -1,0 +1,28 @@
+.section {
+  margin: 10px auto;
+  width: 450px;
+  text-align: center;
+}
+
+.section .form {
+  border: solid 2px darkgrey;
+  border-radius: 18px;
+  background: #999;
+}
+
+.section .form p {
+  font-size: 24px;
+}
+
+.section .form input {
+  color: #565656;
+  font-size: 24px;
+}
+
+.section .howManyYears {
+  margin: 15px auto;
+  background-color: #999;
+  width: 80%;
+  height: 50px;
+  font-size: 24px;
+}
